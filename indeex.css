@@ -1,0 +1,20 @@
+/* this is an external stylesheet */
+body {
+  background-color:black;
+}
+h1 {
+    color:white;
+}
+p {
+    color:red;
+}
+#ayla {
+    color:green;
+    text-align:center;
+    background-color:cyan;
+}
+.even{
+    color:blue;
+}
+/* so in order to create an internal stylesheet, you just write all of this(starting from the body section) inside the style 
+tag in which it is inside the head section  */
